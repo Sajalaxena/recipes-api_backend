@@ -25,6 +25,7 @@ git clone https://github.com/your-username/recipes-api_backend.git
 cd recipes-api
 
 2️⃣ Build and Run the Application
+
 ./mvnw spring-boot:run   # For Linux/MacOS
 mvnw.cmd spring-boot:run # For Windows
 
